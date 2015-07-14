@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster|Droid+Serif|Oxygen);
+body {
+  background-image:url("background.jpg");
+  background-size:100%;
+  text-align:center;
+}
+
+h1 {
+  font-size:60px;
+  font-family:'Lobster', cursive;
+  color:#2EB8E6;
+  text-shadow: 2px 2px black;
+}
+
+.header {
+  margin:auto;
+  max-width:700px;
+}
+p {
+  font-family:'Oxygen', sans-serif;
+  font-size:30px;
+}
+
+h3 {
+  font-family:'Droid Serif', sans-serif;
+  font-size:30px;
+}
+
+body#end {
+  background-image:url("../happy.png");
+  color:white;
+}
+
